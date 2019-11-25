@@ -1,0 +1,65 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+p {
+    margin-bottom: 12px
+}
+h1, h2, h3 {
+    font-weight: 400;
+    }
+.header_1 {
+    font-size: 36px;
+    text-align: center
+}
+.header_2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid grey 
+}
+.header_3 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0
+}
+.curs {
+    font-style: italic
+}
+.perechen {
+    margin-top: -10px;
+}
+.perechen_1 {
+    margin-top: -20px;
+}
+.perechen_3 {
+   margin-top: 20px; 
+}
+.footer_text {
+    font-weight: bold
+}
+.footer_2{
+    margin-left: 7px
+}
+.link {
+     text-align: center
+}
+#header {
+    margin: 0 auto;
+    margin-bottom: 32px
+}
+#main {
+    margin-top: 0px;
+}
+#footer {
+    margin-bottom: 64px;
+    text-align: center;
+    margin-top: 64px
+}
+#abz {
+    text-align: left
+}
